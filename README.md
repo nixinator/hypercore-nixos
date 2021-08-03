@@ -3,7 +3,7 @@
 
 # Basic Idea
 
-Distribute the nixos binary cache as a spare hyperdrive. Users who want to help other mirror popular signed nars from cache.nixos.org can help each other distribute binaries.
+Distribute the nixos binary cache as a sparse hyperdrive. Users who want to help other mirror popular signed nars from cache.nixos.org can help each other distribute binaries.
 
 The Nar binary archives are not unpacked or rebuilt, presevening hash integrity, and can be checked for authenticity via narinfo information supplied by cache.nixos.org.
 
